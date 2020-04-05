@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bcc4c55bd462b71bb72e4e7b9ae608e0",
+    "revision": "b5174c263374de317a3a4dea4114609a",
     "url": "/bermack/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bermack/static/css/2.f67f6a76.chunk.css"
   },
   {
-    "revision": "dcb69d3ba5a66e092f50",
+    "revision": "780f05d3280af47ebcd4",
     "url": "/bermack/static/css/main.c28aaca1.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bermack/static/js/2.dc1e5d2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dcb69d3ba5a66e092f50",
-    "url": "/bermack/static/js/main.07c0d8c4.chunk.js"
+    "revision": "780f05d3280af47ebcd4",
+    "url": "/bermack/static/js/main.fdc8ab1b.chunk.js"
   },
   {
     "revision": "d30520c4dc9d68b94a97",
