@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bermack/static/css/main.c28aaca1.chunk.css",
-    "main.js": "/bermack/static/js/main.a44dabb6.chunk.js",
-    "main.js.map": "/bermack/static/js/main.a44dabb6.chunk.js.map",
+    "main.js": "/bermack/static/js/main.07c0d8c4.chunk.js",
+    "main.js.map": "/bermack/static/js/main.07c0d8c4.chunk.js.map",
     "runtime-main.js": "/bermack/static/js/runtime-main.7226e748.js",
     "runtime-main.js.map": "/bermack/static/js/runtime-main.7226e748.js.map",
     "static/css/2.f67f6a76.chunk.css": "/bermack/static/css/2.f67f6a76.chunk.css",
     "static/js/2.dc1e5d2d.chunk.js": "/bermack/static/js/2.dc1e5d2d.chunk.js",
     "static/js/2.dc1e5d2d.chunk.js.map": "/bermack/static/js/2.dc1e5d2d.chunk.js.map",
     "index.html": "/bermack/index.html",
-    "precache-manifest.3ae693cb7d1d6a0ffb82593da720b862.js": "/bermack/precache-manifest.3ae693cb7d1d6a0ffb82593da720b862.js",
+    "precache-manifest.757bd77838364c7d71dd4434e9ea018d.js": "/bermack/precache-manifest.757bd77838364c7d71dd4434e9ea018d.js",
     "service-worker.js": "/bermack/service-worker.js",
     "static/css/2.f67f6a76.chunk.css.map": "/bermack/static/css/2.f67f6a76.chunk.css.map",
     "static/css/main.c28aaca1.chunk.css.map": "/bermack/static/css/main.c28aaca1.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.f67f6a76.chunk.css",
     "static/js/2.dc1e5d2d.chunk.js",
     "static/css/main.c28aaca1.chunk.css",
-    "static/js/main.a44dabb6.chunk.js"
+    "static/js/main.07c0d8c4.chunk.js"
   ]
 }
