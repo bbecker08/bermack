@@ -1,35 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5493065d1f35949e1b6e3be17389d34e",
+    "revision": "f5dbed02cb36fa6ac21d07742098e06c",
     "url": "/bermack/index.html"
   },
   {
-    "revision": "0efceaa33abc63b9254b",
+    "revision": "ab4ccaa217447315c2d7",
     "url": "/bermack/static/css/2.f67f6a76.chunk.css"
   },
   {
-    "revision": "18b0c9cdea53f308e13e",
-    "url": "/bermack/static/css/main.bcc47264.chunk.css"
+    "revision": "11763c8b7bb4cd970f75",
+    "url": "/bermack/static/css/main.138a5c7c.chunk.css"
   },
   {
-    "revision": "0efceaa33abc63b9254b",
-    "url": "/bermack/static/js/2.dded1ad1.chunk.js"
+    "revision": "ab4ccaa217447315c2d7",
+    "url": "/bermack/static/js/2.64618285.chunk.js"
   },
   {
     "revision": "49c45e15b22906ea61e3b3085d227f58",
-    "url": "/bermack/static/js/2.dded1ad1.chunk.js.LICENSE.txt"
+    "url": "/bermack/static/js/2.64618285.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "18b0c9cdea53f308e13e",
-    "url": "/bermack/static/js/main.ec410db2.chunk.js"
+    "revision": "11763c8b7bb4cd970f75",
+    "url": "/bermack/static/js/main.263f20db.chunk.js"
   },
   {
     "revision": "d30520c4dc9d68b94a97",
     "url": "/bermack/static/js/runtime-main.7226e748.js"
   },
   {
+    "revision": "eba6d98d6204f2abc5a954ca5c1e0fb3",
+    "url": "/bermack/static/media/AttackoftheHollywoodStoryMachine.eba6d98d.docx"
+  },
+  {
+    "revision": "c3ea404585336e869fdeda3780971374",
+    "url": "/bermack/static/media/BermackFemPhilFinal.c3ea4045.pages"
+  },
+  {
+    "revision": "43583b6b938ecfc915bbbd71ab50a3b9",
+    "url": "/bermack/static/media/BermackZackResume.43583b6b.pdf"
+  },
+  {
+    "revision": "9bb915d147a85cf108440efd494e1cf1",
+    "url": "/bermack/static/media/FullCage.9bb915d1.docx"
+  },
+  {
     "revision": "537a3d7ca7a702798a308b4f585b7bdc",
     "url": "/bermack/static/media/PosterLaurelsIMDb.537a3d7c.jpg"
+  },
+  {
+    "revision": "645003a435a316f81f867968d5272c27",
+    "url": "/bermack/static/media/apron.645003a4.JPG"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -50,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
     "url": "/bermack/static/media/brand-icons.e8c322de.woff2"
-  },
-  {
-    "revision": "afa44e8c70570db82316e46aa9455103",
-    "url": "/bermack/static/media/chinawhitegun.afa44e8c.JPG"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -78,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
     "url": "/bermack/static/media/icons.faff9214.woff"
+  },
+  {
+    "revision": "4fa713fe8a4a22dd943b2cd0ea5f736c",
+    "url": "/bermack/static/media/lighting.4fa713fe.JPG"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -106,5 +126,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "829a9ad05d30f6956a1a2a083e6cddd9",
     "url": "/bermack/static/media/zackjackpress.829a9ad0.JPG"
+  },
+  {
+    "revision": "240f1172b2d920791327c07905aca384",
+    "url": "/bermack/static/media/zacklight.240f1172.jpg"
   }
 ]);
