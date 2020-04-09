@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5dbed02cb36fa6ac21d07742098e06c",
+    "revision": "917863e3ddb5c0e2c9dd22eedbc3b7e6",
     "url": "/bermack/index.html"
   },
   {
-    "revision": "ab4ccaa217447315c2d7",
+    "revision": "5f96098edc773a009c6b",
     "url": "/bermack/static/css/2.f67f6a76.chunk.css"
   },
   {
-    "revision": "11763c8b7bb4cd970f75",
-    "url": "/bermack/static/css/main.138a5c7c.chunk.css"
+    "revision": "8a907aaa7f46dbf6e070",
+    "url": "/bermack/static/css/main.9c972a3d.chunk.css"
   },
   {
-    "revision": "ab4ccaa217447315c2d7",
-    "url": "/bermack/static/js/2.64618285.chunk.js"
+    "revision": "5f96098edc773a009c6b",
+    "url": "/bermack/static/js/2.66341c3f.chunk.js"
   },
   {
     "revision": "49c45e15b22906ea61e3b3085d227f58",
-    "url": "/bermack/static/js/2.64618285.chunk.js.LICENSE.txt"
+    "url": "/bermack/static/js/2.66341c3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "11763c8b7bb4cd970f75",
-    "url": "/bermack/static/js/main.263f20db.chunk.js"
+    "revision": "8a907aaa7f46dbf6e070",
+    "url": "/bermack/static/js/main.046a3c44.chunk.js"
   },
   {
     "revision": "d30520c4dc9d68b94a97",
@@ -72,6 +72,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bermack/static/media/brand-icons.e8c322de.woff2"
   },
   {
+    "revision": "afa44e8c70570db82316e46aa9455103",
+    "url": "/bermack/static/media/chinawhitegun.afa44e8c.JPG"
+  },
+  {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
     "url": "/bermack/static/media/flags.9c74e172.png"
   },
@@ -98,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4fa713fe8a4a22dd943b2cd0ea5f736c",
     "url": "/bermack/static/media/lighting.4fa713fe.JPG"
+  },
+  {
+    "revision": "b89a78979b2c160f57c13c1a1e565fee",
+    "url": "/bermack/static/media/makinmovies.b89a7897.jpg"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
